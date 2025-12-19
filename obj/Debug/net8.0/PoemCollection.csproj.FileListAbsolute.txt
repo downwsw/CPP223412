@@ -1,0 +1,14 @@
+/home/nonentity/Рабочий стол/бот/bin/Debug/net8.0/PoemCollection
+/home/nonentity/Рабочий стол/бот/bin/Debug/net8.0/PoemCollection.deps.json
+/home/nonentity/Рабочий стол/бот/bin/Debug/net8.0/PoemCollection.runtimeconfig.json
+/home/nonentity/Рабочий стол/бот/bin/Debug/net8.0/PoemCollection.dll
+/home/nonentity/Рабочий стол/бот/bin/Debug/net8.0/PoemCollection.pdb
+/home/nonentity/Рабочий стол/бот/obj/Debug/net8.0/PoemCollection.GeneratedMSBuildEditorConfig.editorconfig
+/home/nonentity/Рабочий стол/бот/obj/Debug/net8.0/PoemCollection.AssemblyInfoInputs.cache
+/home/nonentity/Рабочий стол/бот/obj/Debug/net8.0/PoemCollection.AssemblyInfo.cs
+/home/nonentity/Рабочий стол/бот/obj/Debug/net8.0/PoemCollection.csproj.CoreCompileInputs.cache
+/home/nonentity/Рабочий стол/бот/obj/Debug/net8.0/PoemCollection.dll
+/home/nonentity/Рабочий стол/бот/obj/Debug/net8.0/refint/PoemCollection.dll
+/home/nonentity/Рабочий стол/бот/obj/Debug/net8.0/PoemCollection.pdb
+/home/nonentity/Рабочий стол/бот/obj/Debug/net8.0/PoemCollection.genruntimeconfig.cache
+/home/nonentity/Рабочий стол/бот/obj/Debug/net8.0/ref/PoemCollection.dll
